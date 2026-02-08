@@ -1,12 +1,11 @@
-# Chapter 2: Application Layer
-
-## 2.2 The Web and HTTP
-### 2.2.1 Overview of HTTP
+# HTTP
+## The Web and HTTP
+### Overview of HTTP
 - HTTP stands for **Hyper Text Transfer Protocol**
 - It's a protocol which used in browser(client) and server to talk to each other
 - Http is **stateless protocol** which means an HTTP server maintains no information about the clients.
-- It firsts initiates a TCP connection.
-### 2.2.2 Non-Persistent and Persistent Connections
+- It firsts initiates a [[tcp_udp|TCP]] connection.
+### Non-Persistent and Persistent Connections
 - **none-persistent connection:** each request/response pair send over a separate TCP connection.
 - **persistent connection:** all requests and their corresponding responses send over the same TCP connection.
 
@@ -19,7 +18,7 @@
 #### HTTP with Persistent Connections
 - The TCP connection remains open and if for a certain amount of time there is no request the connection will be closed
 - So the handshake only happens once not for every request.
-### 2.2.3 HTTP Message Format
+### HTTP Message Format
 #### HTTP Request Message
 ```
 Get /somedir/page.html HTTP/1.1
