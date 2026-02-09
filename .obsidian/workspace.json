@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/design_patterns/strategy.md",
+                "file": "docs/pragmatic_programmer/naming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strategy"
+              "title": "naming"
             }
           },
           {
@@ -238,13 +238,17 @@
   },
   "active": "e201445132b5bc1d",
   "lastOpenFiles": [
-    "docs/pragmatic_programmer/orthogonality.md",
+    "docs/network/ssl_tls.md",
+    "docs/pragmatic_programmer/naming.md",
+    "docs/network/tcp_udp.md",
+    "docs/network/http.md",
+    "docs/notes/experiences.md",
     "docs/design_patterns/strategy.md",
+    "test.ts",
+    "docs/pragmatic_programmer/orthogonality.md",
     "docs/design_patterns",
     "README.md",
-    "docs/network/tcp_udp.md",
     "docs/pragmatic_programmer",
-    "docs/network/http.md",
     "docs/cheet_sheets/markdown.md",
     "private/environment.md",
     "private",
@@ -259,7 +263,6 @@
     "schedule.md",
     "docs/cheet_sheets",
     "graveyard.md",
-    "docs/notes/experiences.md",
     "docs/notes/git.md",
     "docs/clrs",
     "My Note.md",
