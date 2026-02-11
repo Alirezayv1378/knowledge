@@ -105,3 +105,5 @@ print("hello World")
 - #tags  #another-tag  => \#tag \#another-tag
 
 ---
+# Image
+. \!\[\[image.png\]\]
