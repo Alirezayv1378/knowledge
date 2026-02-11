@@ -11,10 +11,14 @@
             "id": "4128a3b08944ae00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/algorithm/resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resource"
             }
           },
           {
@@ -45,7 +49,8 @@
               "title": "latex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f4d4032c3ff41f9c",
@@ -207,11 +213,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "4128a3b08944ae00",
+  "active": "fcc6e0d809bcff23",
   "lastOpenFiles": [
-    "docs/data_structure/priority_queue.md",
-    "docs/data_structure/heap.md",
+    "docs/data_structure/graph.md",
+    "assets/images/adj_list_matrix.png",
     "docs/cheet_sheets/latex.md",
+    "docs/network/proxy.md",
+    "docs/data_structure/heap.md",
+    "docs/algorithm/resource.md",
+    "docs/data_structure/priority_queue.md",
     "docs/algorithm/heap_sort.md",
     "docs/data_structure/Untitled",
     "assets/images/heapsort.png",
@@ -244,10 +254,6 @@
     "soul.md",
     "schedule.md",
     "graveyard.md",
-    "docs/notes/git.md",
-    "My Note.md",
-    "docs/README.md",
-    "Backlinks.md",
-    "docs/notes/Untitled.md"
+    "docs/notes/git.md"
   ]
 }
