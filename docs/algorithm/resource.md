@@ -1,2 +1,2 @@
-1. [[https://visualgo.net/en|Visualize Algorithms]]
+1. [Visualize Algorithms][https://visualgo.net/en]
 2. 
