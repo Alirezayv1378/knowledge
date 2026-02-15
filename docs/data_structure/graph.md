@@ -1,7 +1,7 @@
 # Graph
-- A graph is just:
-	- A set of vertices (nodes)
-	- A set of edges (connections) between them.
+- A graph is just: $G = (N, E)$
+	- A set of vertices (nodes) => N
+	- A set of edges (connections) between them. => E
 
 ## Graph Representation
 ### Adjacency Matrix
