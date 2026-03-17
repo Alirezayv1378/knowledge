@@ -11,10 +11,14 @@
             "id": "4128a3b08944ae00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/cheet_sheets/git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git"
             }
           },
           {
@@ -23,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/books/designing_data_intensive_applications.md",
+                "file": "docs/notes/git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "designing_data_intensive_applications"
+              "title": "git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f4d4032c3ff41f9c",
@@ -195,8 +197,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e201445132b5bc1d",
+  "active": "4128a3b08944ae00",
   "lastOpenFiles": [
+    "docs/cheet_sheets/git.md",
+    "docs/notes/git.md",
     "docs/books/designing_data_intensive_applications.md",
     "docs/algorithm/breadth_first_search.md",
     "assets/images/bfs.png",
@@ -235,8 +239,6 @@
     "private",
     "temp.md",
     "docs/clrs/chapter_2_divide_and_conquer.md",
-    "docs/cheet_sheets/math_snippet.md",
-    "soul.md",
-    "docs/cheet_sheets/latex.md"
+    "docs/cheet_sheets/math_snippet.md"
   ]
 }
